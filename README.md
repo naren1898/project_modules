@@ -1,2 +1,2 @@
 # project_modules
-EcomProject Service, User Service, Notification Service, Payment Service
+EcomProduct Service, User Service, Notification Service, Payment Service
